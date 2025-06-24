@@ -1,0 +1,4 @@
+1.安装 navicat.exe
+2.安装完后不要打开已打开自行退出
+3.将 winmm.dll 拖进 navicat.exe 安装的目录
+4.完成
